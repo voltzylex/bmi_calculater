@@ -46,5 +46,6 @@
         android:text="@string/rst"
         android:textStyle="bold"
         android:layout_margin="20dp"
+        android:id="@+id/result"
         />
 </LinearLayout>
